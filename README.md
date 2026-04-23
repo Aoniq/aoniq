@@ -4,14 +4,14 @@ Hi 👋 My name is Jeffrey
 Web and NodeJS Developer
 ------------------------
 
-I have been coding for the past 4 years and I have found my passion with NodeJS. I started with NodeJS by creating Discord bots and did some cool projects on the way.
+I have been coding for the past 5 years and I have found my passion with NodeJS. I started with NodeJS by creating Discord bots and did some cool projects on the way.
 
 * 🌍  I'm based in The Netherlands
-* 🖥️  See my portfolio at [My portfolio](http://jeffreyv.nl)
-* ✉️  You can contact me at [jeffrey@hostvio.net](mailto:jeffrey@hostvio.net)
+* 🖥️  See my portfolio at [My portfolio](https://jeffreyv.nl)
+* ✉️  You can contact me at [jeffrey@stufy.codes](mailto:jeffrey@stufy.codes)
 * 🚀  I'm currently working on [Several Projects](http://jeffreyv.nl/projects)
-* 🧠  I'm learning Swift
-* 🤝  I'm open to collaborating on Interesting projects with Javascript/NodeJS involved
+* 🧠  I'm learning C#
+* 🤝  I'm open to collaborating
 
 ### Skills
 
